@@ -17,7 +17,7 @@ import org.owasp.esapi.errors.EncryptionException;
 public class Person {
 
 	public String name = "Anonymous";
-	public String city = "Washington-Dc";
+	public String city = "Washington-DC";
 	public String creditcard = "";
 	private String ticket = "";
 	private static Key key = null;
